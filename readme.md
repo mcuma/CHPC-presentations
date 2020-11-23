@@ -58,3 +58,10 @@ curl -i https://git.io -F "url=https://github.com/CHPC-UofU/CHPC-presentations/t
 ```
 
 will shorten the ```https://github.com/CHPC-UofU/CHPC-presentations/tree/master/Intro-to-Parallel-Computing/R-examples``` to ```https://git.io/CHPC-Intro-to-Parallel-Computing-R```
+
+## My new section
+
+My new paragraph.
+
+My second new paragraph.
+
