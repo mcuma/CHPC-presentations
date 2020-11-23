@@ -68,3 +68,6 @@ My second new paragraph.
 ## Another section
 
 ## Add section from master
+
+## Add section from newbranch
+
